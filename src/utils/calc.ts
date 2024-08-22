@@ -1,4 +1,5 @@
 import splitter from "./splitter";
+
 export default function calculateCircleFromPoints(
   shot: number,
   radius: number
