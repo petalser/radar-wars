@@ -1,8 +1,8 @@
 import styled from "styled-components";
 import { useState, useEffect } from "react";
-import calc from "./utils/calc";
-import splitter from "./utils/splitter";
-import proximity from "./utils/proximity";
+import calc from "../utils/calc";
+import splitter from "../utils/splitter";
+import proximity from "../utils/proximity";
 
 type Props = {
   className?: string;
